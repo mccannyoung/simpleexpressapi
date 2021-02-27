@@ -1,0 +1,22 @@
+{
+  "name": "simpleexpressapi",
+  "version": "1.0.0",
+  "description": "This is a small API I'm going to use to play with App Dynamics",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mccannyoung/simpleexpressapi.git"
+  },
+  "author": "RAMY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mccannyoung/simpleexpressapi/issues"
+  },
+  "homepage": "https://github.com/mccannyoung/simpleexpressapi#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
